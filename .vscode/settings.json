@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "sstream": "c",
-        "ft_printf.h": "c",
-        "cstdarg": "c",
-        "cstdio": "c",
-        "cwchar": "c"
-    }
-}
